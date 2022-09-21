@@ -1,0 +1,34 @@
+body {
+    background: url("img/bg.jpg");
+    background-position: center;
+    background-color: center;
+}    
+
+
+.text-center img {
+    width: 200px;
+    border-radius: 50%;
+    margin: 50px;
+   
+}
+
+.card-group {
+    padding: 0px 150px;
+}
+
+.card{
+    margin-right: 5px;
+}
+
+.containerPrincipal {
+    display: inline-block;
+}
+
+.button-collor {
+    background-color: rgb(182, 178, 178);
+}
+
+
+
+
+
